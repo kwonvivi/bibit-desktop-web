@@ -1,4 +1,4 @@
-package kompas.pageobjects;
+package bibit.pageobjects;
 
 import java.util.Random;
 

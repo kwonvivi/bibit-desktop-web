@@ -11,4 +11,4 @@ Feature: Main Page Bibit
     Given user is on home page
     When user click Log In menu
     And user fill login form with valid data
-    Then the user will redirect to user landing page
+    #Then the error message will has displayed
